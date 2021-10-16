@@ -12,7 +12,7 @@ public class ClassDb {
         return classes.get((int) id);
     }
 
-//    public void add(Class newClass) {
-//        classes.add(newClass);
-//    }
+    public void add(Class newClass) {
+        classes.add(newClass);
+    }
 }
