@@ -35,6 +35,6 @@ public class Class {
     }
 
     public void setCount(int count) {
-        this.count = count;
+        Class.count = count;
     }
 }
